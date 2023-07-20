@@ -1,0 +1,1 @@
+https://github.com/Aleksey-Onuchin/hexlet_pytest/.github/workflows/pyci.yml/badge.svg
